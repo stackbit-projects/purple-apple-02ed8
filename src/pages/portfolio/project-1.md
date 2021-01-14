@@ -1,7 +1,7 @@
 ---
 title: Grosir Laptop Lenovo Thinkpad
 subtitle: Harga Murah Kualitas Baik
-date: '2021-03-10'
+date: '2021-01-10'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
