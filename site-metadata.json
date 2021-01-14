@@ -1,9 +1,9 @@
 {
-    "description": "A portfolio theme with a blog",
+    "description": "WA: 0853-1226-1634 Grosir Laptop Murah Berkualitas",
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
-        "title": "GROSIR lAPTOP",
+        "title": "GROSIR LAPTOP",
         "has_nav": true,
         "nav_links": [
             {
@@ -72,5 +72,5 @@
             }
         ]
     },
-    "title": "Stackbit Exto Theme"
+    "title": "WA: 0853-1226-1634 Grosir Laptop Murah Berkualitas"
 }
