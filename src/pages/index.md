@@ -9,7 +9,7 @@ sections:
       Grosir Laptop murah berkualitas bergaransi, cocok bagi anda yang ingin
       punya laptop dengan harga murah namun tidak murahan.
     actions:
-      - label: Let's talk
+      - label: Hubungi Kami
         url: /contact
         style: button
   - section_id: latest-projects
