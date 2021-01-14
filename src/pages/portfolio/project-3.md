@@ -4,7 +4,7 @@ subtitle: Grosir Laptop Murah Berkualitas
 date: '2021-01-14'
 thumb_image: images/friendly-olive.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
-image: images/3.jpg
+image: images/splendid-olive.jpg
 image_alt: A yellow retro telephone on a yellow background
 template: project
 ---
