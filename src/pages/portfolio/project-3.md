@@ -1,6 +1,6 @@
 ---
 title: Grosir Laptop HP
-subtitle: Optional Project Subtitle
+subtitle: Grosir Laptop Murah Berkualitas
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
